@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Steven
   </br>
-  I'm CS student @ Georgia State University
+  I'm a CS student @ Georgia State University
 </h1>
 
 
@@ -44,6 +44,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
-
-###
-- 🔭 I’m currently working on [Full Stack Wishlist Application](https://github.com/sacostapliego/wishlist)
