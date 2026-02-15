@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hi, I'm Steven
-  </br>
-  I'm a CS student @ Georgia State University
+  CS student @ Georgia State University
 </h1>
 
 
