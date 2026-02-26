@@ -2,12 +2,17 @@
   CS student @ Georgia State University
 </h1>
 
-
 <div align="center">
-  [My Portfolio](https://sacostapliego.vercel.app)
-</div>
+  
+[My Portfolio](https://sacostapliego.vercel.app/)
 
-###
+![](https://github-readme-stats.vercel.app/api?username=sacostapliego&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sacostapliego&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sacostapliego&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=sacostapliego&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
