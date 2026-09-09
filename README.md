@@ -1,5 +1,5 @@
 <h1 align="center">
-  CS @ Georgia State University
+  Computer Science @ GSU
 </h1>
 
 <div align="center">
